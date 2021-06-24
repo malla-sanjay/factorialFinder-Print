@@ -1,0 +1,10 @@
+Day 1:
+  This day mostly involved planning since i am a bit hazy on the topic of arrays. i want to store the components of the factorial and display them in the traditional
+  format eg: factorial of 4 = 4*3*2*1. So, i will need a array that subtracts 1 from the inserted number and store them. to print them i can simply print the array 
+  index with * in the middle to give it that look. 
+
+  i plan to write this program a bit organized so, i'll try to use alot of methods to keep the main method clean. i also created an flowchart to make it a bit clear.
+  it's attached in this repository as Factorial.png 
+  
+  i do not want to upload half baked program so i wont be uploding it today.
+
