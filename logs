@@ -1,3 +1,5 @@
+2021/06/25
+
 Day 1:
   This day mostly involved planning since i am a bit hazy on the topic of arrays. i want to store the components of the factorial and display them in the traditional
   format eg: factorial of 4 = 4*3*2*1. So, i will need a array that subtracts 1 from the inserted number and store them. to print them i can simply print the array 
@@ -7,4 +9,12 @@ Day 1:
   it's attached in this repository as Factorial.png 
   
   i do not want to upload half baked program so i wont be uploding it today.
+  
+Day 2:
+  I started writing the java code and realized that the flow chart i made is obsolete and doesn't convey much significant contributions to the actual program. such so
+  that i decided to delete it from this repository entirely. I just realized that you need to create an object to make array (says a lot about programming is all about making projects).
+  for storing and printing the factorial components, I heavily relied on for loops and alot of counters. this project was rather simple after learning dealing with arrays.
+  few while loops along with try catch were used to direct the answers in a proper format for performing calculations. this program is bit lacking due to it being capable of
+  only finding the factorials of smaller numbers since it grows exponentially big after each number. for now i have patched the program just right to perform necessary calculations
+  without any errors(at least the once i could find). i hope to improve this program in the near future in another programming langauge.
 
